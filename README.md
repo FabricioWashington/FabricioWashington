@@ -22,8 +22,8 @@
 - Qualquer iniciativa que envolva novas tecnologias e desafios interessantes
 
 ## 📫 Como Me Encontrar
-- Email: [seuemail@example.com](fabriciowashington2016@hotmail.com)
-- LinkedIn: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/fabricio-washington-048b172b6/)
+- Email: [fabriciowashington2016@hotmail.com](fabriciowashington2016@hotmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/fabricio-washington-048b172b6/)
 - GitHub: [FabricioWashington](https://github.com/FabricioWashington)
 
 ## 😄 Pronomes
