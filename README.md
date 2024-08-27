@@ -1,38 +1,26 @@
-# 👋 Olá, eu sou @FabricioWashington
 
-## 👀 Interesses
-- Desenvolvimento de Software
-- Análise de Sistemas
-- Aplicações Desktop
-- Desenvolvimento Web
-- Novas Tecnologias
+## Olá! Eu sou o Fabrício Washington 👋
 
-## 🌱 Atualmente Aprendendo
-- **Java**: Desenvolvimento de aplicações desktop e web
-- **Angular**: Framework para desenvolvimento de aplicações web
-- **HTML & CSS**: Criação de páginas web estáticas e responsivas
-- **C++**: Programação de sistemas e aplicações de alto desempenho
-- **SQL & MySQL**: Gestão e manipulação de banco de dados
-- **Outros**: Explorando outras linguagens e tecnologias para expandir meu conhecimento
+[![Blog](https://img.shields.io/website?label=MyProfile&style=for-the-badge&url=https://landing-page-fw.vercel.app/)](https://landing-page-fw.vercel.app)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-washington-048b172b6/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/washington_fbc/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabriciowashingtondev@gmail.com)
 
-## 💞️ Buscando Colaborar em
-- Projetos de desenvolvimento de software
-- Aplicações desktop
-- Desenvolvimento web com Angular
-- Qualquer iniciativa que envolva novas tecnologias e desafios interessantes
 
-## 📫 Como Me Encontrar
-- Email: [fabriciowashington2016@hotmail.com](fabriciowashington2016@hotmail.com)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/fabricio-washington-048b172b6/)
-- GitHub: [FabricioWashington](https://github.com/FabricioWashington)
+![Washington GitHub stats](https://github-readme-stats.vercel.app/api?username=FabricioWashington&show_icons=true&theme=dark)
 
-## 😄 Pronomes
-- Ele/Dele
+## Skills
+<div style="display: inline_block"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div><br/>
 
-## ⚡ Curiosidade
-- Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por aprender e desenvolver soluções tecnológicas inovadoras!
+"Descobri minha verdadeira vocação na programação e estou comprometido com a busca contínua de conhecimento, sempre visando aprimorar minhas habilidades e enfrentar desafios com profissionalismo e dedicação."
 
-<!---
-FabricioWashington/FabricioWashington is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
