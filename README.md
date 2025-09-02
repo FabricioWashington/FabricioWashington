@@ -1,13 +1,13 @@
 
 ## Olá! Eu sou o Fabrício Washington 👋
 
-[![Blog](https://img.shields.io/website?label=MyProfile&style=for-the-badge&url=https://fabriciowashington.vercel.app/)](https://fabriciowashington.vercel.app)
+[![Blog](https://img.shields.io/website?label=MyProfile&style=for-the-badge&url=https://fabriciowashington.github.io/profile-landing-page/)](https://fabriciowashington.vercel.app)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-washington-048b172b6/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/washington_fbc/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabriciowashingtondev@gmail.com)
 
 
-![Washington GitHub stats]([https://github-readme-stats.vercel.app/api?username=FabricioWashington&show_icons=true&theme=dark](https://fabriciowashington.github.io/profile-landing-page))
+![Washington GitHub stats](https://github-readme-stats.vercel.app/api?username=FabricioWashington&show_icons=true&theme=dark)
 
 ## Skills
 <div style="display: inline_block"><br/>
