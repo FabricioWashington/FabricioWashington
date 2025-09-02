@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabriciowashingtondev@gmail.com)
 
 
-![Washington GitHub stats](https://github-readme-stats.vercel.app/api?username=FabricioWashington&show_icons=true&theme=dark)
+![Washington GitHub stats]([https://github-readme-stats.vercel.app/api?username=FabricioWashington&show_icons=true&theme=dark](https://fabriciowashington.github.io/profile-landing-page))
 
 ## Skills
 <div style="display: inline_block"><br/>
